@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [anoncirrus.github.io](anoncirrus.github.io)
+- 👨‍💻 All of my projects are available at https://anoncirrus.github.io
 
-- 📝 I regularly write articles on [anoncirrus.github.io](anoncirrus.github.io)
+- 📝 I regularly write articles on [anoncirrus.github.io](https://anoncirrus.github.io)
 
 - 📫 How to reach me **pruthviraj1398@gmail.com**
 
