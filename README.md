@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoncirrus&label=Profile%20views&color=0e75b6&style=flat" alt="anoncirrus" /> </p>
 
-- 🔭 I’m currently working on **back end development projects**
-
-- 🌱 I’m currently learning **DevOps**
+- 🔭 I’m currently working on **python developement and devops**
 
 - 👨‍💻 All of my projects are available at [anoncirrus.github.io](https://anoncirrus.github.io)
 
