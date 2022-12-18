@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **python developement and devops**
 
-- 👨‍💻 All of my projects are available at [anoncirrus.github.io](https://anoncirrus.github.io)
+- 👨‍💻 All of my projects are available at [anoncirrus.github.io/projects](https://anoncirrus.github.io/projects)
 
 - 📝 I regularly write articles on [anoncirrus.github.io](https://anoncirrus.github.io)
 
