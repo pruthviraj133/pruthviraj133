@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to my profile!</h1>
-<h3 align="center">Technology Researcher</h3>
-
-- 🔭 I’m currently researching on how to best utilize emerging technologies in Indian banking sector
+<h3 align="center">PLease feel free to check this profile out</h3>
 
 - 📝 I regularly write articles on [anoncirrus.github.io](https://anoncirrus.github.io)
 
-- 📫 How to reach me **pruthviraj1398@gmail.com**
+- 📫 How to reach me? Good question..
